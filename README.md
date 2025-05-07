@@ -7,7 +7,8 @@
 make USE_PGXS=1
 make install USE_PGXS=1
 ```
-3. create extension in your database ```
+3. create extension in your database
+```
 CREATE EXTENSION alder_optimizer;
 ```
 
