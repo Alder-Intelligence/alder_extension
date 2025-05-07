@@ -1,0 +1,5 @@
+# amcheck extension
+comment = 'Alder Query Performance Optimizer'
+default_version = '1.0'
+module_pathname = '$libdir/alder_optimizer'
+relocatable = true
